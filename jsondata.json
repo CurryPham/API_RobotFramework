@@ -1,0 +1,29 @@
+{
+ "name": "John",
+ "age": "30",
+ "phone": "123456",
+ "city": [
+  "Hanoi",
+  "HCM",
+  "Danang"
+ ],
+ "address": {
+  "streetname": "xyz",
+  "houseNum": "24D",
+  "city": "Hongkong",
+  "number": {
+   "landline": "123",
+   "mobile": "345"
+  }
+ },
+ "phoneNumber": [
+  {
+   "type": "home",
+   "number": "212555"
+  },
+  {
+   "type": "fax",
+   "number": "555121"
+  }
+ ]
+}
